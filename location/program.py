@@ -104,6 +104,7 @@ def show(p):
 #  [0.00910, 0.00715, 0.01434, 0.04313, 0.03642]]
 # (within a tolerance of +/- 0.001 for each entry)
 
+
 colors = [['R', 'G', 'G', 'R', 'R'],
           ['R', 'R', 'G', 'R', 'R'],
           ['R', 'R', 'G', 'G', 'R'],
